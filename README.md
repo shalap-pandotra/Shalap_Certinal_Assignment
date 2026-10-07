@@ -8,9 +8,9 @@
 | --- | --- | --- |
 | **Live Site (access given to panelists)** | [Open the live prototype](https://claude.ai/artifact/AWYuRhqaz76TNPwfnedU9X) | The full prototype with live AI. Invite-only: see the sign-in steps below. |
 | **Demo (no sign-in)** | [Open the demo](https://shalap-pandotra.github.io/) | The same screens with pre-written examples instead of live AI. Open to anyone. |
-| Product spec | [PDF](Quoted_product_spec.pdf) | Problem, personas, product, value, go-to-market, assumptions and risks. |
-| Journeys and wireframes | [PDF](Quoted_journeys_and_wireframes.pdf) | Two journey maps and the wireframes. |
-| Part B: the AI | [Markdown](prompts_evals_guardrails.md) | Both prompts, 10 evals and 5 guardrails. |
+| Product spec | [PDF](docs/Quoted_product_spec.pdf) | Problem, personas, product, value, go-to-market, assumptions and risks. |
+| Journeys and wireframes | [PDF](docs/Quoted_journeys_and_wireframes.pdf) | Two journey maps and the wireframes. |
+| Part B: the AI | [Markdown](docs/prompts_evals_guardrails.md) | Both prompts, 10 evals and 5 guardrails. |
 
 ## Signing in to the Live Site
 
